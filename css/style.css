@@ -1,0 +1,6 @@
+.overlay{
+    z-index: 999;
+}
+.icons i , .img-card img{
+    cursor: pointer;
+}
